@@ -1,3 +1,10 @@
+# ignore .jpg .png and .tiff files and .csv
+*.jpg
+*.tiff
+*.png
+test.csv
+train.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

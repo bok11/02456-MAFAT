@@ -1,0 +1,2 @@
+# ignore zip file containing dataset for competition
+*.zip
