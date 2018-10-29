@@ -1,6 +1,7 @@
 # ignore .jpg .png and .tif files and .csv
 *.jpg
 *.tif
+*.tiff
 *.png
 test.csv
 train.csv
